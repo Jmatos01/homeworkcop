@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+}
+
+button{
+    color: black;
+    border-radius: 8px;
+    width: 250px;
+    background-color: rgb(85, 174, 204);
+}
+
+input{
+    border: 2px lightcoral;
+    border-radius: 4px;
+    width: 350px;
+}
+
+#topten{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#search_byphone{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#all_players{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#output2{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
